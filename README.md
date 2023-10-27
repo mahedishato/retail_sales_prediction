@@ -17,3 +17,13 @@ Model Evaluation: Evaluate the performance of the trained model using appropriat
 
 Prediction and Deployment: Use the trained model to make predictions on new, unseen data. If applicable, deploy the model for practical use or further analysis.
 
+
+
+Categorical Variables: 🔠
+date: 🗓️ There are 1,826 unique dates in the dataset, which range from 1-1-2017 to 31-12-2022.
+
+country: 🌍 There are 5 unique countries, with Argentina appearing most frequently.
+
+store: 🏬 There are 3 unique stores, with "Kaggle Learn" being the most common.
+
+product: 📦 There are 5 unique products, with "Using LLMs to Improve Your Coding" being the most sold.
